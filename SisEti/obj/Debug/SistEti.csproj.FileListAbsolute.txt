@@ -1,0 +1,43 @@
+C:\DB LP E2\SisEti\bin\Debug\SisEti.exe.config
+C:\DB LP E2\SisEti\obj\Debug\SistEti.csproj.ResolveComReference.cache
+C:\DB LP E2\SisEti\obj\Debug\SisEti.exe
+C:\DB LP E2\SisEti\obj\Debug\SisEti.pdb
+C:\DB LP E2\SisEti\bin\Debug\SisEti.exe
+C:\DB LP E2\SisEti\bin\Debug\SisEti.pdb
+C:\DB LP E2\SisEti\obj\Debug\ResolveAssemblyReference.cache
+C:\DB LP E2\SisEti\obj\Debug\SistEti.FBuscarCorte.resources
+C:\DB LP E2\SisEti\obj\Debug\SistEti.FCapturaCT.resources
+C:\DB LP E2\SisEti\obj\Debug\SistEti.FImportaCT.resources
+C:\DB LP E2\SisEti\obj\Debug\SistEti.FImprimeEtiq.resources
+C:\DB LP E2\SisEti\obj\Debug\SistEti.FImprimeEtiqID.resources
+C:\DB LP E2\SisEti\obj\Debug\SistEti.FInfImpEtiq.resources
+C:\DB LP E2\SisEti\obj\Debug\SistEti.FLeerEtiq.resources
+C:\DB LP E2\SisEti\obj\Debug\SistEti.FLeerEtiqSST.resources
+C:\DB LP E2\SisEti\obj\Debug\SistEti.FPakingList.resources
+C:\DB LP E2\SisEti\obj\Debug\SistEti.FSistEtiq.resources
+C:\DB LP E2\SisEti\obj\Debug\SistEti.csproj.GenerateResource.Cache
+C:\BD LP E2\SisEti\bin\Debug\SisEti.exe.config
+C:\BD LP E2\SisEti\obj\Debug\SistEti.csproj.ResolveComReference.cache
+C:\BD LP E2\SisEti\obj\Debug\SisEti.exe
+C:\BD LP E2\SisEti\obj\Debug\SisEti.pdb
+C:\BD LP E2\SisEti\bin\Debug\SisEti.exe
+C:\BD LP E2\SisEti\bin\Debug\SisEti.pdb
+C:\BD LP E2\SisEti\obj\Debug\ResolveAssemblyReference.cache
+C:\BD LP E2\SisEti\obj\Debug\SistEti.FBuscarCorte.resources
+C:\BD LP E2\SisEti\obj\Debug\SistEti.FCapturaCT.resources
+C:\BD LP E2\SisEti\obj\Debug\SistEti.FImportaCT.resources
+C:\BD LP E2\SisEti\obj\Debug\SistEti.FImprimeEtiq.resources
+C:\BD LP E2\SisEti\obj\Debug\SistEti.FImprimeEtiqID.resources
+C:\BD LP E2\SisEti\obj\Debug\SistEti.FInfImpEtiq.resources
+C:\BD LP E2\SisEti\obj\Debug\SistEti.FLeerEtiq.resources
+C:\BD LP E2\SisEti\obj\Debug\SistEti.FLeerEtiqSST.resources
+C:\BD LP E2\SisEti\obj\Debug\SistEti.FPakingList.resources
+C:\BD LP E2\SisEti\obj\Debug\SistEti.FSistEtiq.resources
+C:\BD LP E2\SisEti\obj\Debug\SistEti.csproj.GenerateResource.Cache
+H:\Projects .Net 3.5\BD LP E2\SisEti\bin\Debug\SisEti.exe.config
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Debug\SistEti.csproj.ResolveComReference.cache
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Debug\SisEti.exe
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Debug\SisEti.pdb
+C:\BD LP E2\SisEti\obj\Debug\SistEti.FAcabado.resources
+C:\BD LP E2\SisEti\obj\Debug\SistEti.FBuscarAcabado.resources
+C:\BD LP E2\SisEti\obj\Debug\SistEti.FEstilo.resources

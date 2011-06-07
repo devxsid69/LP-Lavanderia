@@ -1,0 +1,9 @@
+C:\BD LP E2\MWASistEti\bin\MWASistEti.dll
+C:\BD LP E2\MWASistEti\bin\MWASistEti.pdb
+C:\BD LP E2\MWASistEti\obj\Debug\ResolveAssemblyReference.cache
+C:\BD LP E2\MWASistEti\obj\Debug\MWASistEti.Global.resources
+C:\BD LP E2\MWASistEti\obj\Debug\MWASistEti.inicio.resources
+C:\BD LP E2\MWASistEti\obj\Debug\MWASistEti.MobileWebForm1.resources
+C:\BD LP E2\MWASistEti\obj\Debug\MWASistEti.csproj.GenerateResource.Cache
+C:\BD LP E2\MWASistEti\obj\Debug\MWASistEti.dll
+C:\BD LP E2\MWASistEti\obj\Debug\MWASistEti.pdb

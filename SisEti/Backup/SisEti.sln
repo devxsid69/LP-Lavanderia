@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistEti", "SistEti.csproj", "{74A604A4-655A-47C1-9EAF-73523CA42E02}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "SDASisEti", "..\SDASisEti\SDASisEti.csdproj", "{4BF6AA3D-B64C-490F-A766-298D360C1DC2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{74A604A4-655A-47C1-9EAF-73523CA42E02}.Debug.ActiveCfg = Debug|.NET
+		{74A604A4-655A-47C1-9EAF-73523CA42E02}.Debug.Build.0 = Debug|.NET
+		{74A604A4-655A-47C1-9EAF-73523CA42E02}.Release.ActiveCfg = Release|.NET
+		{74A604A4-655A-47C1-9EAF-73523CA42E02}.Release.Build.0 = Release|.NET
+		{4BF6AA3D-B64C-490F-A766-298D360C1DC2}.Debug.ActiveCfg = Debug|Windows CE
+		{4BF6AA3D-B64C-490F-A766-298D360C1DC2}.Debug.Build.0 = Debug|Windows CE
+		{4BF6AA3D-B64C-490F-A766-298D360C1DC2}.Debug.Deploy.0 = Debug|Windows CE
+		{4BF6AA3D-B64C-490F-A766-298D360C1DC2}.Release.ActiveCfg = Release|Windows CE
+		{4BF6AA3D-B64C-490F-A766-298D360C1DC2}.Release.Build.0 = Release|Windows CE
+		{4BF6AA3D-B64C-490F-A766-298D360C1DC2}.Release.Deploy.0 = Release|Windows CE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+ 
+CREATE TABLE Captura 
+(
+Lectid int identity(1,1),
+NoCorte nvarchar(12) null,
+Etiqueta int null,
+UPC int null,
+Color nvarchar(12) null,
+Talla nvarchar(12) null,
+TipoCaja nvarchar(12) null
+
+)

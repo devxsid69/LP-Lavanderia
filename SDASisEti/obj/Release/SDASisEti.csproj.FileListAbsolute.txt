@@ -1,0 +1,16 @@
+F:\Projects .Net 3.5\BD LP E2\SDASisEti\bin\Release\DataBase\Crea Tablas.txt
+F:\Projects .Net 3.5\BD LP E2\SDASisEti\bin\Release\SDASisEti.exe
+F:\Projects .Net 3.5\BD LP E2\SDASisEti\bin\Release\System.Data.SqlClient.dll
+F:\Projects .Net 3.5\BD LP E2\SDASisEti\bin\Release\System.Data.SqlServerCe.dll
+F:\Projects .Net 3.5\BD LP E2\SDASisEti\obj\Release\ResolveAssemblyReference.cache
+F:\Projects .Net 3.5\BD LP E2\SDASisEti\obj\Release\SDASisEti.SistemasEtiquetas.resources
+F:\Projects .Net 3.5\BD LP E2\SDASisEti\obj\Release\SDASisEti.csproj.GenerateResource.Cache
+F:\Projects .Net 3.5\BD LP E2\SDASisEti\obj\Release\SDASisEti.exe
+C:\BD LP E2\SDASisEti\bin\Release\DataBase\Crea Tablas.txt
+C:\BD LP E2\SDASisEti\bin\Release\SDASisEti.exe
+C:\BD LP E2\SDASisEti\bin\Release\System.Data.SqlClient.dll
+C:\BD LP E2\SDASisEti\bin\Release\System.Data.SqlServerCe.dll
+C:\BD LP E2\SDASisEti\obj\Release\ResolveAssemblyReference.cache
+C:\BD LP E2\SDASisEti\obj\Release\SDASisEti.SistemasEtiquetas.resources
+C:\BD LP E2\SDASisEti\obj\Release\SDASisEti.csproj.GenerateResource.Cache
+C:\BD LP E2\SDASisEti\obj\Release\SDASisEti.exe

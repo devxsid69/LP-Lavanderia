@@ -1,0 +1,37 @@
+H:\Projects .Net 3.5\BD LP E2\SisEti\bin\Release\SisEti.exe.config
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SistEti.csproj.ResolveComReference.cache
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SisEti.exe
+H:\Projects .Net 3.5\BD LP E2\SisEti\bin\Release\SisEti.exe
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\ResolveAssemblyReference.cache
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SistEti.FBuscarCorte.resources
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SistEti.FCapturaCT.resources
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SistEti.FImportaCT.resources
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SistEti.FImprimeEtiq.resources
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SistEti.FImprimeEtiqID.resources
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SistEti.FInfImpEtiq.resources
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SistEti.FLeerEtiq.resources
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SistEti.FLeerEtiqSST.resources
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SistEti.FPakingList.resources
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SistEti.FSistEtiq.resources
+H:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SistEti.csproj.GenerateResource.Cache
+F:\Projects .Net 3.5\BD LP E2\SisEti\bin\Release\SisEti.exe.config
+F:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SistEti.csproj.ResolveComReference.cache
+F:\Projects .Net 3.5\BD LP E2\SisEti\obj\Release\SisEti.exe
+C:\BD LP E2\SisEti\bin\Release\SisEti.exe.config
+C:\BD LP E2\SisEti\obj\Release\SistEti.csproj.ResolveComReference.cache
+C:\BD LP E2\SisEti\obj\Release\SisEti.exe
+C:\BD LP E2\SisEti\bin\Release\SisEti.exe
+C:\BD LP E2\SisEti\obj\Release\ResolveAssemblyReference.cache
+C:\BD LP E2\SisEti\obj\Release\SistEti.FBuscarCorte.resources
+C:\BD LP E2\SisEti\obj\Release\SistEti.FCapturaCT.resources
+C:\BD LP E2\SisEti\obj\Release\SistEti.FImportaCT.resources
+C:\BD LP E2\SisEti\obj\Release\SistEti.FImprimeEtiq.resources
+C:\BD LP E2\SisEti\obj\Release\SistEti.FImprimeEtiqID.resources
+C:\BD LP E2\SisEti\obj\Release\SistEti.FInfImpEtiq.resources
+C:\BD LP E2\SisEti\obj\Release\SistEti.FLeerEtiq.resources
+C:\BD LP E2\SisEti\obj\Release\SistEti.FLeerEtiqSST.resources
+C:\BD LP E2\SisEti\obj\Release\SistEti.FPakingList.resources
+C:\BD LP E2\SisEti\obj\Release\SistEti.FSistEtiq.resources
+C:\BD LP E2\SisEti\obj\Release\SistEti.csproj.GenerateResource.Cache
+C:\BD LP E2\SisEti\obj\Release\SisEti.FBuscarAcabado.resources
+C:\BD LP E2\SisEti\obj\Release\SistEti.FAcabado.resources

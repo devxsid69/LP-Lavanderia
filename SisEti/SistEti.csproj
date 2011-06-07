@@ -1,0 +1,292 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{74A604A4-655A-47C1-9EAF-73523CA42E02}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>SisEti</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SisEti</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Data.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Access.Dao">
+      <Guid>{4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}</Guid>
+      <VersionMajor>12</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Properties\DataSources\SisEti.Class.PackingCasesService.datasource" />
+    <None Include="Properties\DataSources\SistEti.lpQueries.datasource" />
+    <Content Include="App.ico" />
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Entities\Estilo.cs" />
+    <Compile Include="FBuscarAcabado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FBuscarAcabado.Designer.cs">
+      <DependentUpon>FBuscarAcabado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\lpQueries.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\lpUtils.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class\PackingCases.cs" />
+    <Compile Include="Class\PackingCasesService.cs" />
+    <Compile Include="Entities\Acabado.cs" />
+    <Compile Include="FAcabado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAcabado.Designer.cs">
+      <DependentUpon>FAcabado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FBuscarCorte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FBuscarEstilo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FBuscarEstilo.Designer.cs">
+      <DependentUpon>FBuscarEstilo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FCapturaCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FEstilo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FEstilo.Designer.cs">
+      <DependentUpon>FEstilo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FImportaCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FImprimeEtiq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FImprimeEtiqID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FInfImpEtiq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FLeerEtiq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FLeerEtiqSST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPakingList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FSistEti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImpClases\SerialBase.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ImpClases\SerialComm.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ImpClases\SerialConfig.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ImpClases\Win32Com.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ImpClases\Win32DCB.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ImpClases\Win32Enums.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ImpClases\Win32Escape.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ImpClases\Win32Events.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ImpClases\Win32Modem.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ImpClases\Win32Overlap.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ImpClases\Win32Properties.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ImpClases\Win32Status.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ImpClases\Win32Timeouts.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <EmbeddedResource Include="FBuscarAcabado.resx">
+      <DependentUpon>FBuscarAcabado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAcabado.resx">
+      <DependentUpon>FAcabado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FBuscarCorte.resx">
+      <DependentUpon>FBuscarCorte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FCapturaCT.resx">
+      <DependentUpon>FCapturaCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FEstilo.resx">
+      <DependentUpon>FEstilo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FImportaCT.resx">
+      <DependentUpon>FImportaCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FImprimeEtiq.resx">
+      <DependentUpon>FImprimeEtiq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FImprimeEtiqID.resx">
+      <DependentUpon>FImprimeEtiqID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FInfImpEtiq.resx">
+      <DependentUpon>FInfImpEtiq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FLeerEtiq.resx">
+      <DependentUpon>FLeerEtiq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FLeerEtiqSST.resx">
+      <DependentUpon>FLeerEtiqSST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPakingList.resx">
+      <DependentUpon>FPakingList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FSistEti.resx">
+      <DependentUpon>FSistEti.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DataSets\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

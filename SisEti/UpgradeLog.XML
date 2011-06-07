@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SisEti">
+</Property><Property Name="Solution File" Value="C:\DB LP E2\SisEti\SisEti.sln">
+</Property><Property Name="User Options File" Value="C:\DB LP E2\SisEti\SisEti.suo">
+</Property><Property Name="Date" Value="Tuesday, March 29, 2011">
+</Property><Property Name="Time" Value="10:01 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SisEti.sln" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\SisEti.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SisEti.suo" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\SisEti.suo">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="SistEti.csproj" Description="Project file successfully backed up as C:\DB LP E2\SisEti\Backup\SistEti.csproj">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="SistEti.csproj.user" Description="Project user file successfully backed up as C:\DB LP E2\SisEti\Backup\SistEti.csproj.user">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="Class\lpQueries.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\Class\lpQueries.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="Class\lpUtils.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\Class\lpUtils.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FBuscarCorte.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FBuscarCorte.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FCapturaCT.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FCapturaCT.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FImportaCT.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FImportaCT.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FImprimeEtiq.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FImprimeEtiq.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FImprimeEtiqID.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FImprimeEtiqID.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FInfImpEtiq.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FInfImpEtiq.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FLeerEtiq.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FLeerEtiq.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FLeerEtiqSST.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FLeerEtiqSST.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FPakingList.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FPakingList.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FSistEti.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FSistEti.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="ImpClases\SerialBase.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\ImpClases\SerialBase.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="ImpClases\SerialComm.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\ImpClases\SerialComm.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="ImpClases\SerialConfig.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\ImpClases\SerialConfig.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="ImpClases\Win32Com.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\ImpClases\Win32Com.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="ImpClases\Win32DCB.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\ImpClases\Win32DCB.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="ImpClases\Win32Enums.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\ImpClases\Win32Enums.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="ImpClases\Win32Escape.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\ImpClases\Win32Escape.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="ImpClases\Win32Events.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\ImpClases\Win32Events.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="ImpClases\Win32Modem.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\ImpClases\Win32Modem.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="ImpClases\Win32Overlap.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\ImpClases\Win32Overlap.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="ImpClases\Win32Properties.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\ImpClases\Win32Properties.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="ImpClases\Win32Status.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\ImpClases\Win32Status.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="ImpClases\Win32Timeouts.cs" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\ImpClases\Win32Timeouts.cs">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="App.config" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="App.ico" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FBuscarCorte.resx" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FBuscarCorte.resx">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FCapturaCT.resx" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FCapturaCT.resx">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FImportaCT.resx" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FImportaCT.resx">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FImprimeEtiq.resx" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FImprimeEtiq.resx">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FImprimeEtiqID.resx" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FImprimeEtiqID.resx">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FInfImpEtiq.resx" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FInfImpEtiq.resx">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FLeerEtiq.resx" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FLeerEtiq.resx">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FLeerEtiqSST.resx" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FLeerEtiqSST.resx">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FPakingList.resx" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FPakingList.resx">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="FSistEti.resx" Description="File successfully backed up as C:\DB LP E2\SisEti\Backup\FSistEti.resx">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="SistEti.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SistEti" Source="SistEti.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="SDASisEti" Source="..\SDASisEti\SDASisEti.csdproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="2" Project="SDASisEti" Source="..\SDASisEti\SDASisEti.csdproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="SisEti.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SisEti.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SistEti" Source="SistEti.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

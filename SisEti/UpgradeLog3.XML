@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SisEti">
+</Property><Property Name="Archivo de la solución" Value="C:\BD LP E2\SisEti\SisEti.sln">
+</Property><Property Name="Date" Value="Martes, 03 de Mayo de 2011">
+</Property><Property Name="Time" Value="04:45:02 a.m.">
+</Property><Property Name="Número de registro" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="WASistEti" Source="..\WASistEti\WASistEti.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="3" Project="WASistEti" Source="WASistEti.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WASistEti" Source="WASistEti.csproj" Description="Ha completado el primer paso para convertir el proyecto web de Visual Studio .NET 2003. Para completar la conversión, seleccione el proyecto en el Explorador de soluciones y elija el elemento de menú contextual 'Convertir en aplicación web'.">
+</Event></UpgradeLog>

@@ -1,0 +1,10 @@
+C:\BD LP E2\WASistEti\bin\WASistEti.dll
+C:\BD LP E2\WASistEti\obj\Release\ResolveAssemblyReference.cache
+C:\BD LP E2\WASistEti\obj\Release\WASistEti.Global.resources
+C:\BD LP E2\WASistEti\obj\Release\WASistEti.Inicio.resources
+C:\BD LP E2\WASistEti\obj\Release\WASistEti.wseLogin.resources
+C:\BD LP E2\WASistEti\obj\Release\WASistEti.wseTipoLectura.resources
+C:\BD LP E2\WASistEti\obj\Release\WASistEti.WebForm1.resources
+C:\BD LP E2\WASistEti\obj\Release\WASistEti.wseVerificaEtiquetas1.resources
+C:\BD LP E2\WASistEti\obj\Release\WASistEti.csproj.GenerateResource.Cache
+C:\BD LP E2\WASistEti\obj\Release\WASistEti.dll

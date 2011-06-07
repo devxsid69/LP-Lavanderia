@@ -1,0 +1,20 @@
+C:\DB LP E2\SDASisEti\bin\Debug\DataBase\Crea Tablas.txt
+C:\DB LP E2\SDASisEti\bin\Debug\SDASisEti.exe
+C:\DB LP E2\SDASisEti\bin\Debug\SDASisEti.pdb
+C:\DB LP E2\SDASisEti\bin\Debug\System.Data.SqlClient.dll
+C:\DB LP E2\SDASisEti\bin\Debug\System.Data.SqlServerCe.dll
+C:\DB LP E2\SDASisEti\obj\Debug\ResolveAssemblyReference.cache
+C:\DB LP E2\SDASisEti\obj\Debug\SDASisEti.SistemasEtiquetas.resources
+C:\DB LP E2\SDASisEti\obj\Debug\SDASisEti.csproj.GenerateResource.Cache
+C:\DB LP E2\SDASisEti\obj\Debug\SDASisEti.exe
+C:\DB LP E2\SDASisEti\obj\Debug\SDASisEti.pdb
+C:\BD LP E2\SDASisEti\bin\Debug\DataBase\Crea Tablas.txt
+C:\BD LP E2\SDASisEti\bin\Debug\SDASisEti.exe
+C:\BD LP E2\SDASisEti\bin\Debug\SDASisEti.pdb
+C:\BD LP E2\SDASisEti\bin\Debug\System.Data.SqlClient.dll
+C:\BD LP E2\SDASisEti\bin\Debug\System.Data.SqlServerCe.dll
+C:\BD LP E2\SDASisEti\obj\Debug\ResolveAssemblyReference.cache
+C:\BD LP E2\SDASisEti\obj\Debug\SDASisEti.SistemasEtiquetas.resources
+C:\BD LP E2\SDASisEti\obj\Debug\SDASisEti.csproj.GenerateResource.Cache
+C:\BD LP E2\SDASisEti\obj\Debug\SDASisEti.exe
+C:\BD LP E2\SDASisEti\obj\Debug\SDASisEti.pdb
